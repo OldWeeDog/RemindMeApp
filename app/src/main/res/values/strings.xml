@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RemindMeApp</string>
+    <string name="authentication_required">Authentication Required</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="attempts_left">Attempts Left:</string>
+    <string name="login">Login</string>
+    <string name="welcome_screen">Welcome Screen</string>
+    <string name="create">Create</string>
+    <string name="read">Read</string>
+    <string name="a_list">A List</string>
+
+    <string name="title">Title</string>
+    <string name="todo_list">ToDo List</string>
+    <string name="enter_item">Enter Item</string>
+    <string name="add">Add</string>
+</resources>
