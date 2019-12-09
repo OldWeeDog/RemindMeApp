@@ -1,0 +1,12 @@
+Instructions by Thomas McGaffney.
+Instructions to Sideload the apk.
+Connect you phone to your pc .
+Open file explorer.
+For ease navigate to your phones internal storage then open a new file explorer window.
+Navigate to metropolia z- drive in new window then drag and drop apk to phone internal storage.
+Close file explorer and eject phone.
+Install apk by navigating on phone to internal storage an double tap tp install.
+
+ 
+The Json file goes in the resources folder of the app.
+The username and password have been set to "admin".
